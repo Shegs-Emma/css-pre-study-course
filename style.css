@@ -24,7 +24,6 @@ main{
 article{
     position: relative;
     width: 50%;
-    height: 180px;
     border: 4px solid #050401;
     box-shadow: 3px 3px 0 0 #e4572e;
     left: 25%;
@@ -34,7 +33,6 @@ article{
 article:first-child{
     position: relative;
     width: 50%;
-    height: 140px;
     border: 4px solid #050401;
     box-shadow: 3px 3px 0 0 #e4572e;
     left: 25%;
